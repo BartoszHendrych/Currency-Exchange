@@ -31,3 +31,11 @@
     border: 2px solid #cccccc;
     border-radius: 5px;
 }
+
+.sum  {
+    margin: 0 auto;
+    padding: 20px;
+    color: #0026ff;
+    font-size: xx-large;
+    text-align: center;
+}
