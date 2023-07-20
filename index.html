@@ -16,37 +16,41 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/form.css" rel="stylesheet">
     <link href="css/button.css" rel="stylesheet">
+    <link href="css/container.css" rel="stylesheet">
     <script defer src="js/script.js"></script>
 
 </head>
 
 <body>
-    <form class="form js-form">
-        <fieldset class="from__fieldset">
-            <legend class="from__legend">Kalkulator Walut</legend>
-            <p>
-                <label>
-                    <span class="form__labelText">Wartość w (PL)</span>
-                    <input class="form__field js-amount" type="number" min="1" step="any" placeholder="Wpisz Wartość w PL">
-                </label>
-            </p>
-            <p>
-                <label>
-                    <span class="form__labelText">Wybierz Walute</span>
-                    <select class="form__field js-currency" name="ChooseCurrency">
-                        <option value="EUR">Euro</option>
-                        <option value="CHF">Frank Szwajcarski</option>
-                        <option value="GBP">Funt Brytyjski</option>
-                        <option value="USD">Dolar Amerykański</option>
-                    </select>
-                </label>
-            </p>
-            <button class="form__button js-result">Przelicz</button>
-        </fieldset>
-        <p>
-            <span class="sum js-sum"></span>   
-        </p>
-    </form>
+    <div class="container">
+        <form class="form js-form">
+            <fieldset class="from__fieldset">
+                <legend class="from__legend">Kalkulator Walut</legend>
+                <p>
+                    <label>
+                        <span class="form__labelText">Kwota w zł</span>
+                        <input class="form__field js-amount" type="number" min="1" step="any"
+                          autofocus placeholder="Wpisz Wartość w PL">
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span class="form__labelText">Wybierz Walute</span>
+                        <select class="form__field js-currency" name="ChooseCurrency">
+                            <option value="EUR">Euro</option>
+                            <option value="CHF">Frank Szwajcarski</option>
+                            <option value="GBP">Funt Brytyjski</option>
+                            <option value="USD">Dolar Amerykański</option>
+                        </select>
+                    </label>
+                </p>
+                <button class="form__button js-result">Przelicz</button>
+            </fieldset>
+            <div class="form__sum">
+                <span class="js-sum"></span>
+            </div>
+        </form>
+    </div>
 </body>
 
 </html>
