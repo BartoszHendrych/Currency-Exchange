@@ -1,4 +1,4 @@
-.from__legend {
+.form__legend {
     border: 2px solid #cccccc;
     background-color: #fdd14a;
     padding: 5px;
@@ -13,7 +13,7 @@
     border-radius: 5px;
 }
 
-.from__fieldset {
+.form__fieldset {
     border-radius: 5px;
     padding: 30px;
 }
