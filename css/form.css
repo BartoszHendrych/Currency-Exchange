@@ -6,8 +6,9 @@
 }
 
 .form {
-    max-width: 600px;
-    margin: 100px auto;
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
     font-family: 'Roboto', sans-serif;
     border-radius: 5px;
 }
@@ -32,10 +33,9 @@
     border-radius: 5px;
 }
 
-.sum  {
-    margin: 0 auto;
-    padding: 20px;
-    color: #0026ff;
-    font-size: xx-large;
+.form__sum {
+    margin-top: 20px;
     text-align: center;
+    color: #000000;
+    font-size: x-large;
 }
