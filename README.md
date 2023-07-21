@@ -1,4 +1,4 @@
-# ExchangeCurrency
+# Currency Exchange
 create by Bartosz Hendrych
 
 https://bartoszhendrych.github.io/ExchangeCurrency/
