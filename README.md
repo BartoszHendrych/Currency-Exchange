@@ -1,8 +1,8 @@
 # Currency Exchange
 create by Bartosz Hendrych
 
-https://bartoszhendrych.github.io/ExchangeCurrency/
-
+https://bartoszhendrych.github.io/Currency-Exchange/
+ 
 ### Technology:
 - HTML
 - CSS
