@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exchange Currency
 create by Bartosz Hendrych
 
@@ -20,6 +21,14 @@ Presentation below:
 ![gif](image/Animation.gif)
 
 ### Technology I used to create exchange currency:
+=======
+# Currency Exchange
+create by Bartosz Hendrych
+
+https://bartoszhendrych.github.io/Currency-Exchange/
+ 
+### Technology:
+>>>>>>> e1f6e5af0501f453ba2887fd71f47633dbe0ea6e
 - HTML
 - CSS
 - JavaScript
