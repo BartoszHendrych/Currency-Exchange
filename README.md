@@ -8,8 +8,6 @@ https://bartoszhendrych.github.io/Currency-Exchange/
 
 A simple currency converter is a tool that allows users to convert amounts from one currency to another based on current exchange rates.
 
-https://bartoszhendrych.github.io/ExchangeCurrency/
-
 ### Simple instruction: 
 
 1. Currency selection: Users can choose four currencies they want to compare or convert between. For example, they may select Polish Zloty (PLN) and Euro (EUR).
