@@ -34,8 +34,13 @@
 }
 
 .form__sum {
+    text-align: center;
+    color: #979797;
+}
+
+.form__result {
+    font-size: x-large;
     margin-top: 20px;
     text-align: center;
     color: #000000;
-    font-size: x-large;
 }
