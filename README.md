@@ -24,6 +24,4 @@ Presentation below:
 - CSS
 - JavaScript
 - Convection BEM
-
-![imagehtmlcssJS](image/obrazhtml1.png)
  
