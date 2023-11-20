@@ -5,7 +5,7 @@ https://bartoszhendrych.github.io/Currency-Exchange/
 
 ## Description 
 
-A simple currency converter is a tool that allows users to convert amounts from one currency to another based on current exchange rates.
+"Currency Exchange" is a tool that enables users to convert amounts from one currency to another.
 
 ### Simple instruction: 
 
