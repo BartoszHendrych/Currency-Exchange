@@ -22,8 +22,8 @@ Presentation below:
 ### Technology I used to create exchange currency:
 - HTML
 - CSS
-- JavaScript
-- Convection BEM
+- JS
+- BEM
 
 ![imagehtmlcssJS](image/obrazhtml1.png)
  
